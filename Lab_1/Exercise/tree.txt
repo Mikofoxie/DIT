@@ -1,0 +1,46 @@
+Folder PATH listing
+Volume serial number is A047-DBF9
+C:.
+|   tree.txt
+|   week1.ipynb
+|   
++---Exercise_mean_filtered
+|   +---output_hsv_images
+|   |       mean_hue_channel.png
+|   |       mean_saturation_channel.png
+|   |       mean_value_channel.png
+|   |       
+|   +---output_img
+|   |       mean_blue_image.png
+|   |       mean_green_image.png
+|   |       mean_red_image.png
+|   |       
+|   +---output_modified_hsv
+|   |       mean_modified_hsv_image.png
+|   |       
+|   \---output_swapped_colors
+|           mean_swap_br.png
+|           mean_swap_gb.png
+|           mean_swap_rg.png
+|           
++---filtered_gaussian
++---filtered_mean
++---filtered_median
++---output_hsv_images
+|       hue_channel.png
+|       saturation_channel.png
+|       value_channel.png
+|       
++---output_img
+|       blue_image.png
+|       green_image.png
+|       red_image.png
+|       
++---output_modified_hsv
+|       modified_hsv_image.png
+|       
+\---output_swapped_colors
+        swap_br.png
+        swap_gb.png
+        swap_rg.png
+        
